@@ -30,12 +30,6 @@ Das Notebook führt anschließend durch vier Analyseschritte:
 3. **Szenarien und Kaufkraft:** Veröffentlichte Inflationswerte für 2027 und 2028 sowie ausdrücklich eigene Annahmen für 2029–2032 zeigen, wie sich nominale Endbeträge in Preisen von 2026 einordnen lassen.
 4. **Sensitivität und Entscheidung:** Das Modell prüft alternative spätere Kreditzinsen, Gesellschafterzinsen und Grenzen der Kreditrückzahlung. Ergebnisse werden als bedingte Entscheidung interpretiert.
 
-## Was das Projekt zeigt
-
-- **Business Analytics:** Eine offene Managementfrage wird in vergleichbare Fälle, Zahlungsströme und Entscheidungsgrößen übersetzt.
-- **Consulting:** Die Empfehlung nennt ihre Voraussetzungen und trennt verfügbare Mittel, Endvermögen und betriebliche Liquidität.
-- **Data Science:** Das Notebook dokumentiert Eingaben, implementiert Szenario- und Sensitivitätsrechnungen in Python und prüft ausgewählte Ergebnisse auf rechnerische Konsistenz. Es trainiert kein Prognose- oder Machine-Learning-Modell.
-
 **Werkzeuge:** Python, pandas, Matplotlib und Jupyter Notebook.
 
 ## Daten und Modellgrenzen
